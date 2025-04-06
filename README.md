@@ -29,8 +29,8 @@ https://1drv.ms/u/c/602ebeff73b09729/EdaMON01GmdGkongpOZjlBYBc6aa-aCmeawS7qPdC5l
 # CONTENIDO DEL REPOSITORIO
 
 1. [Documentación para la implementación de las simulaciones](./docs/jupyter_docs.md)
-2. [Paquetes para la simulación de un robot scara](./diff_pkgs/diff_pkg.md)
-3. [Paquetes para la simulación de un robot Scorbot](./omni_pkgs/omni_pkg.md)
+2. [Paquetes para la simulación de un robot móvil diferencial (2,0)](./diff_pkgs/diff_pkg.md)
+3. [Paquetes para la simulación de un móvil omnidireccional](./omni_pkgs/omni_pkg.md)
 5. [Paquetes para la simulación de los robots del laboratorio](./robot_lab/robot_lab.md)
 6. [Introducción a Nodos, Tópicos e Interfeces](./ros2_basics/ros2_basics.md)
 7. [Prácticas](./practica/practica.md)
