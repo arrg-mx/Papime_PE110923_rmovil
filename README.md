@@ -29,16 +29,16 @@ https://1drv.ms/u/c/602ebeff73b09729/EdaMON01GmdGkongpOZjlBYBc6aa-aCmeawS7qPdC5l
 # CONTENIDO DEL REPOSITORIO
 
 1. [Documentación para la implementación de las simulaciones](./docs/jupyter_docs.md)
-2. [Paquetes para la simulación de un robot scara](./scara_pkgs/scara_pkg.md)
-3. [Paquetes para la simulación de un robot Scorbot](./scorbot_pkgs/scorbot_pkg.md)
-5. [Paquetes para la simulación de los robots del laboratorio](./robo_lab/robots_lab.md)
-6. [Introducción a Nodos, Tópicos e Interfeces](./ros2_basic/ros2_basic.md)
-7. [Prácticas](./practicas/practicas.md)
+2. [Paquetes para la simulación de un robot scara](./diff_pkgs/diff_pkg.md)
+3. [Paquetes para la simulación de un robot Scorbot](./omni_pkgs/omni_pkg.md)
+5. [Paquetes para la simulación de los robots del laboratorio](./robot_lab/robot_lab.md)
+6. [Introducción a Nodos, Tópicos e Interfeces](./ros2_basics/ros2_basics.md)
+7. [Prácticas](./practica/practica.md)
 
 
 # Repositorios con el resto del contenido del proyecto
 
-- [Repositorio de robótica móvil](https://github.com/arrg-mx/Papime_PE110923_rmovil)
+- [Repositorio de robótica serial](https://github.com/arrg-mx/Papime_PE110923_rserial)
 - [Repositorio de manejo de redes para robótica](https://github.com/arrg-mx/ros2-docs)
 
 Facultad de Ingeniería UNAM. Todos los derechos reservados, Facultad de Ingeniería de la Universidad Nacional Autónoma de México © 2025. Quedan estrictamente prohibidos su uso fuera del ámbito académico, alteración, descarga o divulgación por cualquier medio, así como su reproducción parcial o total.
