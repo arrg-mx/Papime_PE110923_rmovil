@@ -33,7 +33,7 @@ https://1drv.ms/u/c/602ebeff73b09729/EdaMON01GmdGkongpOZjlBYBc6aa-aCmeawS7qPdC5l
 3. [Paquetes para la simulación de un móvil omnidireccional](./omni_pkgs/omni_pkgs.md)
 5. [Paquetes para la simulación de los robots del laboratorio](./robo_lab/robo_lab.md)
 6. [Introducción a Nodos, Tópicos e Interfeces](./ros2_basics/ros2_basics.md)
-7. [Prácticas](./practica/practica.md)
+7. [Prácticas](./practicas/practicas.md)
 
 
 # Repositorios con el resto del contenido del proyecto
