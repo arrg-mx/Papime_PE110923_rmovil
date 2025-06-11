@@ -1,5 +1,7 @@
 # Manejo básico de nodos y Tópicos en ROS 2
 
+"Este material fue desarrollado con el apoyo del PAPIME PE110923 de la UNAM."
+
 ## Descripción
 Este repositorio contiene los archivos para el manejo básico de:
 
