@@ -1,5 +1,7 @@
 # Robots ARRG
 
+"Este material fue desarrollado con el apoyo del PAPIME PE110923 de la UNAM."
+
 Este repositorio contiene los archivos relacionados con la implementación de las simulaciones de los robots que integran el laboratorio de Robótica Remota desarrollado en el proyecto.
 
 Fue realizado por los alumnos:
