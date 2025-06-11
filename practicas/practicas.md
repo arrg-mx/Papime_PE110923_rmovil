@@ -1,5 +1,7 @@
 # Repositorio de Pŕacticas
 
+"Este material fue desarrollado con el apoyo del PAPIME PE110923 de la UNAM."
+
 Este repositorio contiene el formato de las prácticas que se deben realizar para el adecuado manejo de los robots seriales y móviles. Son un total de ocho prácticas:
 
 1. Práctica 1 URDF.
